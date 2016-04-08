@@ -9,7 +9,7 @@ public class ContactDetailPortlet extends MVCPortlet {
  
 public void action()
 {
-System.out.println("hello");	
-}
+/*System.out.println("hello");	
+*/}
 	
 }
